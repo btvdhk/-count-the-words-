@@ -1,2 +1,2 @@
-# -count-the-words-
+# count the words
 This is learning purpose
